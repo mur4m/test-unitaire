@@ -1,0 +1,8 @@
+{
+  "extends": ["eslint:recommended"],
+  "rules": {
+    "no-irregular-whitespace": 1,
+    "curly": 1,
+    "eqeqeq": 2
+  }
+}
